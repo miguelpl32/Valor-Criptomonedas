@@ -16,3 +16,4 @@ Conocer el Valor de la Criptomoneda
 ![](img/portada-criptomoneda.jpg)
 
 ## Lenguajes
++ JavaScript
